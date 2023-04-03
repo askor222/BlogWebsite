@@ -1,0 +1,54 @@
+.nav-main {
+    background-color: black;
+    position: fixed;
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    height: 60px;
+    padding: 20px 0;
+  }
+  
+  .nav-brand {
+    width: 60px;
+  }
+  
+  /* nav left ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+  .nav-main ul {
+    display: flex;
+  }
+  
+  .nav-main ul li {
+    padding: 10px;
+  }
+  
+  .nav-main ul.nav-menu {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .mav-main ul li a {
+    padding: 6px;
+  }
+  
+  .nav-main ul li a:hover {
+    border-bottom: 2px solid white;
+  }
+  
+  /*lupa ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+  .menu-btn {
+    position: absolute;
+    cursor: pointer;
+    top: 15px;
+    right: 30px;
+    z-index: 2;
+    font-size: 1.7rem;
+    display: none;
+
+    hr{
+        margin: 10px 0;
+    }
+    
+  }
+  
