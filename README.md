@@ -9,6 +9,10 @@ People are awesome is a website where we publish all kinds of success stories wi
 ![Used tecnologies](./imagenes/used-tecnologies.png)
 
 
+## Project requirements:
+- The page must be responsive.
+- Use Sass preprocessor.
+
 
 ## Live view
 
