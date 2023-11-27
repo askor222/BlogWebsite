@@ -16,4 +16,4 @@ People are awesome is a website where we publish all kinds of success stories wi
 
 ## Live view
 
-- Check out the project view: <a href="https://candid-lamington-b44d14.netlify.app/" target="_blank" rel="noopener noreferrer">(open in new tab)</a>
+- Check out the project view: <a href="https://candid-lamington-b44d14.netlify.app/" target="_blank" rel="noopener noreferrer">(open the proyect)</a>
